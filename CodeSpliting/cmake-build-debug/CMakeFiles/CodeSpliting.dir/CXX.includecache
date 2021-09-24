@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/noah/CLionProjects/CodeSpliting/input.cpp
+iostream
+-
+
+/home/noah/CLionProjects/CodeSpliting/main.cpp
+iostream
+-
+input.cpp
+/home/noah/CLionProjects/CodeSpliting/input.cpp
+

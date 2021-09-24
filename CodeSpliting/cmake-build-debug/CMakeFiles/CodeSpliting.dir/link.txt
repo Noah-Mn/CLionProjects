@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/CodeSpliting.dir/main.cpp.o CMakeFiles/CodeSpliting.dir/input.cpp.o -o CodeSpliting 
